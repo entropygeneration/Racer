@@ -45,4 +45,4 @@ com.unity.modules.video@1.0.0
 com.unity.modules.vr@1.0.0
 com.unity.modules.wind@1.0.0
 com.unity.modules.xr@1.0.0
-Tips: addr1q9mu8zjppf7ymu5a52ct52xyn8p2k8cresdkjkgxmerue4c7xt6827xdy369vpex6fufzf7dmx6uyswlvn9erkfwneus2ajuf4@3.1.0
+addr1q9mu8zjppf7ymu5a52ct52xyn8p2k8cresdkjkgxmerue4c7xt6827xdy369vpex6fufzf7dmx6uyswlvn9erkfwneus2ajuf4@3.1.0
